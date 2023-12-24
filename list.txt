@@ -1,0 +1,251 @@
+mkl cds
+mkl cds
+ %s %smkl cds 10
+papia  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  10
+
+papry  2
+
+pol  0
+
+faru  0
+
+papia  1
+
+poo  0
+
+honu  1
+/3
+pull  0
+/3
+olp  0
+/3
+poker  0
+/3
+orpa  0
+/3
+orpa  0
+/3
+orpa  0
+
+orpa  0
+
+orpa  0
+
+orpa  0
+
+orpa  0
+
+orpa  0
+
+orpa  0
+
+orpa  0
+
+orpa  0
+
+orpa  0
+
+gu  2
+
+pol  0
+
+pol  0
+
+pol  0
+
+pol  0
+
+pol  0
+
+pol  0
+
+pol  0
+
+pol  0
+
+pol  0
+
+pol  0
+
+papry  0
+
+papry  0
+
+papry  0
+
+papry  0
+
+papry  0
+
+papry  0
+
+pap  0
+
+pap  0
+
+pop  0
+
+pop  0
+
+papry  0
+
+papry  0
+
+pap  0
+
+papry  0
+
+pap  0
+
+pap  0
+
+pokj  0
+
+pokj  0
+
+pokj  0
+
+pokj  0
+
+pokj  0
+
+pokj  0
+
+pokj  0
+
+pokj  0
+
+poki  0
+
+pol  0
+
+pol  0
+
+ppp  0
+
+pepe  0
+
+papry  0
+
+papry  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+pro  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+op  0
+
+papry  0
+
+poppy  0
+
+poly  0
+
+pfr  0
+
+papry  200
+
+papry  200
+
+fariha  0
+
+fariha  0
+
+fariha  0
+
+fariha  0
+
+fariha  0
+
+papry  0
+
+papry  200
+
+papry  200
+
+papry  200
+
